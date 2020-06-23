@@ -1,4 +1,4 @@
-# vue-project
+# glak_foci
 
 ## Project setup
 ```
